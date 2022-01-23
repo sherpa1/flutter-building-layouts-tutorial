@@ -1,16 +1,31 @@
-# building_layouts_tutorial
+# Building Layouts with Flutter
 
-A new Flutter project.
+Réalisation du tutoriel officiel de Flutter pour la découverte de la mise en page : 
+https://docs.flutter.dev/development/ui/layout
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Documentation
 
-A few resources to get you started if this is your first Flutter project:
+https://docs.flutter.dev/development/ui/layout/tutorial
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+__Alexandre Leroux__
+
+_Développeur web & mobile indépendant_
+
+_Enseignant vacataire à l'Université de Lorraine_
+
+- IUT Nancy-Charlemagne (LP Ciasie)
+
+- Institut des Sciences du Digital, Management & Cognition (Masters Sciences Cognitives)
+
+> Site : https://sherpa.one
+
+> Mail : alex@sherpa.one
+
+> Discord : sherpa#3890
+
+> Github : @sherpa1
+
+> Twitter : @\_sherpa\_
